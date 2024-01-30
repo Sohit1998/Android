@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840827763772",
+    "project_id": "samplebridging",
+    "storage_bucket": "samplebridging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840827763772:android:fb6b8902accde3cbba9739",
+        "android_client_info": {
+          "package_name": "com.assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkIZzlUmiV7aiB5EnbvIMtl8Vmzf6fxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
